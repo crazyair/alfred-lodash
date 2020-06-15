@@ -1,15 +1,15 @@
 {
-  "name": "CodeVar",
-  "version": "1.2.0",
-  "description": "生成可用的代码变量 (CodeVar that return u a better variable from Chinese to English . ",
+  "name": "alfred-lodash",
+  "version": "0.0.1",
+  "description": "lodash",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "xudaolong",
+  "author": "crazyair",
   "license": "ISC",
   "devDependencies": {
-    "alfy": "^0.6.0"
+    "alfy": "^0.9.1"
   },
   "dependencies": {
     "lodash.difference": "^4.5.0",
